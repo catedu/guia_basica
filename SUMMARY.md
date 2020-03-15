@@ -6,3 +6,7 @@
 * [Vídeo](video.md)
 * [Discord](discord.md)
 
+---
+
+* [Créditos](crditos-buenos.md)
+
