@@ -29,7 +29,7 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "catedu/guia_basica",
+      "base": "https://github.com/catedu/guia_basica/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
