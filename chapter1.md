@@ -1,3 +1,4 @@
-# First Chapter
+# Compartiendo archivos
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Para compartir archivos podéis usar los gestores de las propias aplicaciones antes comentadas o servicios como [OneDrive](https://onedrive.live.com/), [Google Drive](https://drive.google.com/), [WeTransfer](https://wetransfer.com/), entre otros, para enviar archivos pesados.
+
