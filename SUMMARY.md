@@ -6,6 +6,7 @@
 * [Streamings](video.md)
 * [Enviar vídeos](enviar-videos.md)
 * [Discord](discord.md)
+* [Corregir con foto](corregir-con-foto.md)
 
 ---
 
