@@ -7,12 +7,12 @@ Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https:
 Lo hemos probado con 25 participantes y sin problemas, a partir de ese número hay que tomar estrategias como :
 
 - Una persona que dirija
-- Todos apagados micro y pantalla
+- Todos apagados micro y pantalla menos el que habla
 -  En el icono de la mano abajo a la izq **que pida mano** el que quiera hablar, y el que dirige, le activa el micro la webcam
 -  **Chat** sin problemas
 
 ![](/assets/2020-03-18 10_00_45-Documento1 - Microsoft Word.png)
 
-En la vista mosaico podemos ver todos los participantes
+En la vista mosaico abajo a la derecha (recomendado si todos hablan) podemos ver todos los participantes
 
 ![](/assets/2020-03-18 11_14_45-Window.png)
