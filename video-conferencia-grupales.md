@@ -5,3 +5,7 @@ Hemos probado **jitsi.org** y funciona muy bien, lo que más nos gusta es que **
 Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https://meet.jit.si/CATEDU o lo publicas en la pagina web... y la gente entra, ideal para los alumnos-profesor, claustros... se puede compartir la pantalla...
 
 ![](/assets/2020-03-18 10_00_45-Documento1 - Microsoft Word.png)
+
+En la vista mosaico podemos ver todos los participantes
+
+![](/assets/2020-03-18 11_14_45-Window.png)
