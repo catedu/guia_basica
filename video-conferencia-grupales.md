@@ -1,15 +1,15 @@
 #Video conferencia grupales
 
-Hemos probado **jitsi.org** y funciona muy bien, lo que más nos gusta es que **no hace falta registro** 
+Hemos probado **jitsi.org** y funciona muy bien, lo que más nos gusta es que **no hace falta registro** esto es importante para los alumnos.
 
-Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https://meet.jit.si/CATEDU o lo publicas en la pagina web... y la gente entra, ideal para los alumnos-profesor, claustros... se puede compartir la pantalla...
+Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https://meet.jit.si/CATEDU por email, o lo publicas en tu blog, en la pagina web... y la gente entra, ideal para los alumnos-profesor, claustros... se puede compartir la pantalla, chat, silenciar a otro ...
 
 Lo hemos probado con 25 participantes y sin problemas, a partir de ese número hay que tomar estrategias como :
 
 - Una persona que dirija
 - Todos apagados micro y pantalla menos el que habla
 -  En el icono de la mano abajo a la izq **que pida mano** el que quiera hablar, y el que dirige, le activa el micro la webcam
--  **Chat** sin problemas
+-  **Chat** sin problemas, va muy bien, abajo a la izq.
 
 ![](/assets/2020-03-18 10_00_45-Documento1 - Microsoft Word.png)
 
