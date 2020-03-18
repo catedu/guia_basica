@@ -8,8 +8,8 @@ Lo hemos probado con 25 participantes y sin problemas, a partir de ese número h
 
 - Una persona que dirija
 - Todos apagados micro y pantalla
--  En el icono de la mano abajo a la izq que pida mano el que quiera hablar, y el que dirige, le activa el micro la webcam
--  Chat sin problemas
+-  En el icono de la mano abajo a la izq **que pida mano** el que quiera hablar, y el que dirige, le activa el micro la webcam
+-  **Chat** sin problemas
 
 ![](/assets/2020-03-18 10_00_45-Documento1 - Microsoft Word.png)
 
