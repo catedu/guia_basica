@@ -2,7 +2,7 @@
 
 Hemos probado **https://jitsi.org/** y funciona muy bien, lo que más nos gusta es que **no hace falta registro** esto es importante para los alumnos.
 
-Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https://meet.jit.si/CATEDU por email, o lo publicas en tu blog, en la pagina web... y la gente entra, por el navegador o por móvil [**app**](https://play.google.com/store/apps/details?i=org.jitsi.meet&gl=ES).
+Pones un nombre (_en la figura hemos puesto CATEDU_), y envías el enlace https://meet.jit.si/CATEDU por email, o lo publicas en tu blog, en la pagina web... y la gente entra. Aconsejamos por el navegador del ordenador que a través de la [app del móvil](https://play.google.com/store/apps/details?i=org.jitsi.meet&gl=ES).
 Ideal para los alumnos-profesor, claustros... se puede compartir la pantalla, chat, silenciar a otro ...
 
 Lo hemos probado con 25 participantes y sin problemas, a partir de ese número hay que tomar estrategias como :
