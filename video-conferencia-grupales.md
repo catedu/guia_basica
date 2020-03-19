@@ -17,3 +17,7 @@ Lo hemos probado con 25 participantes y sin problemas, a partir de ese número h
 En la vista mosaico abajo a la derecha (recomendado si todos hablan) podemos ver todos los participantes
 
 ![](/assets/2020-03-18 11_14_45-Window.png)
+
+En resumen: 
+
+![](https://i2.wp.com/matematicas11235813.luismiglesias.es/wp-content/uploads/2020/03/reuniones-telematicas-educativas-eficaces-jitsi-luismiglesias.jpg?w=1223&ssl=1)
