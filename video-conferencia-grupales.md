@@ -18,6 +18,10 @@ En la vista mosaico abajo a la derecha (recomendado si todos hablan) podemos ver
 
 ![](/assets/2020-03-18 11_14_45-Window.png)
 
+No hay nada como un buen vídeo, gracias a Jose Ramón Olalla y equipo :
+
+{%youtube%}https://www.youtube.com/watch?v=50f_FjsVL2A&feature=youtu.be{%endyoutube%}
+
 En resumen: 
 
 ![](https://i2.wp.com/matematicas11235813.luismiglesias.es/wp-content/uploads/2020/03/reuniones-telematicas-educativas-eficaces-jitsi-luismiglesias.jpg?w=1223&ssl=1)
