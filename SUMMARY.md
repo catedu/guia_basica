@@ -9,6 +9,8 @@
 * [Enviar vídeos](enviar-videos.md)
 * [Discord](discord.md)
 * [Corregir con foto](corregir-con-foto.md)
+* [No te hace falta impresora](editores-pdf.md)
+* [No te hace falta scanner](no-te-hace-falta-scanner.md)
 
 ---
 
