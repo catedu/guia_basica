@@ -16,7 +16,7 @@ Lo hemos probado con 25 participantes y sin problemas, a partir de ese número h
 
 En la vista mosaico abajo a la derecha (recomendado si todos hablan) podemos ver todos los participantes
 
-![](/assets/2020-03-18 11_14_45-Window.png)
+![](/assets/2020-03-29 13_47_28-Window.png)
 
 No hay nada como un buen vídeo y explicación, gracias a Jose Ramón Olalla y equipo :
 
