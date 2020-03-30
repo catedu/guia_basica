@@ -22,7 +22,3 @@ Lo hemos probado con 25 participantes y sin problemas, a partir de ese número h
 En la vista mosaico abajo a la derecha (recomendado si todos hablan) podemos ver todos los participantes
 
 ![](/assets/2020-03-29 13_47_28-Window.png)
-
-No hay nada como un buen vídeo y explicación, gracias a Jose Ramón Olalla y equipo :
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 48.87%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1197px" height="585px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5e76fcb5a330b30dbe5a38cd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
