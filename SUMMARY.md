@@ -35,6 +35,7 @@
 * [Corregir con foto](corregir-con-foto.md)
 * [No te hace falta impresora](editores-pdf.md)
 * [No te hace falta scanner](no-te-hace-falta-scanner.md)
+<!--
 * [Tecnología para la escuela rural en casa](tecnologia-para-la-escuela-rural-en-casa.md)
 * [Recursos y metodología para la escuela rural en casa](recursos-y-metodologia-para-la-escuela-rural-en-casa.md)
 * [Buenas prácticas en centros rurales](buenas-practicas-en-centros-rurales.md)
@@ -44,7 +45,7 @@
 * [Grabarte en vídeo](grabarte-en-video.md)
 * [Streamings](video.md)
 * [Enviar vídeos](enviar-videos.md)
-
+-->
 ---
 
 * [Créditos](crditos-buenos.md)
