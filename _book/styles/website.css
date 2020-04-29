@@ -1,0 +1,11 @@
+nav {
+    background: #c6e5c9;
+}
+
+a.gitbook-link {
+    display: none;
+}
+
+#book-search-input {
+    margin-bottom: 0px;
+}
