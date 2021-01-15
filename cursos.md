@@ -1,7 +1,7 @@
 # Cursos para profundizar en lo que te interese
 
-* [Atrévete con Wordpress](https://catedu.gitbooks.io/atrevete-con-wordpress/content/)
-* [Moodle para la enseñanza](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/)
-* [Google Classroom](https://catedu.gitbooks.io/google-classroom-2018/content/)
-* [Edmodo](https://catedu.gitbooks.io/curso-de-edmodo/content/)
-* [Guía de videoconferencias educativas](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/)
+* [Atrévete con Wordpress](https://catedu.github.io/atrevete-con-wordpress/)
+* [Moodle para la enseñanza](https://catedu.github.io/curso-moodle/)
+* [Google Classroom](https://catedu.github.io/google-classroom-2018/)
+* [Edmodo](https://catedu.github.io/curso_de_edmodo/)
+* [Guía de videoconferencias educativas](https://catedu.github.io/guiavidconf/)
